@@ -4,7 +4,7 @@ Projeto acadêmico desenvolvido na disciplina de Machine Learning da ESPM, com o
 
 **Autores:** Julia Egute e Pedro Perroni.
 
-## Objetivo
+## Objetivo:
 
 Comparar modelos de classificação para prever a adesão de clientes a um depósito a prazo e apoiar a priorização de contatos em uma campanha de telemarketing.
 
